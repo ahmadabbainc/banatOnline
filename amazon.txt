@@ -1,0 +1,12 @@
+1. Clone the repo.
+2. install dependencies.
+3. Spin the dev Server.
+4. Header component.
+5. Banner Component.
+6. Product Feed.
+7. Product Card.
+8. Next Auth.
+9. Checkout Page.
+10. Redux part.
+11. Every thing was messed up but I fixed it.
+12. Stripe. kik my ass for so many days ad it dont work.
